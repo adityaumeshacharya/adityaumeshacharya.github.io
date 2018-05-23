@@ -6890,6 +6890,7 @@ Created using IcoMoon - icomoon.io
   position: relative;
   display: block;
   max-width: 100%;
+  height: auto;
   opacity: 1;
 }
 
