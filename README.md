@@ -1,1 +1,6 @@
-# aditya061997.github.io
+adityaacharya.me
+
+------------------------------------------------------
+
+My portfolio website created using HTML and CSS.
+Highlights my experience and projects.
