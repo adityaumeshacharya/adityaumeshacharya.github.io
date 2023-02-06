@@ -2,5 +2,5 @@ adityaacharya.me
 
 ------------------------------------------------------
 
-My portfolio website created using HTML and CSS.
-Highlights my experience and projects.
+A portfolio website created using HTML and CSS.
+Highlights my experiences and projects.
